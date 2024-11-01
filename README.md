@@ -23,6 +23,7 @@ This script focuses on training data with an emphasis on assessing how different
 ## Additional Notes
 - Ensure all necessary MATLAB functions and toolboxes are installed.
 - Adjust script parameters as needed to fit different testing requirements.
+- For more questions, please feel free to contact A. Wang (andong.wang@riken.jp) and Y. Qiu (yuning.qiu@riken.jp).
 
 ## Bibtex Format
 
